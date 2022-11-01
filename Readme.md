@@ -13,7 +13,7 @@ Control the particle using ZQSD.
 
 The game is ONLY made for Windows.
 
-1. Download this repository, it can be done using `git clone https://github.com/AntoineBRTL/LostInSound.git`.
+1. Download this repository, it can be done using `git clone https://github.com/Nain-nain/LostInSound.git`.
 2. Execute `LostInSound.exe`.
 3. May be the sound with you !
 
